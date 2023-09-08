@@ -3,7 +3,8 @@ Tick-a-Boo Time Management Suite Release Plan
 Release 0.1.0
 Simple JavaFX desktop application:
 - List of Activity Timers with a necessary "Free Roam"
-- Pre-populated library of Activity Timers;
+- Support of Activity Timer Groups
+- Pre-populated library of Activity Timers
 - Daily List of Activity Timers with a necessary "Free Roam"
 - Local persistence of Activity Timers
 - Stats on Activity Timers
