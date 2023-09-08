@@ -1,0 +1,31 @@
+Tick-a-Boo Time Management Suite Release Plan
+
+Release 0.1.0
+Simple JavaFX desktop application:
+- List of Activity Timers with a necessary "Free Roam"
+- Pre-populated library of Activity Timers;
+- Daily List of Activity Timers with a necessary "Free Roam"
+- Local persistence of Activity Timers
+- Stats on Activity Timers
+- System tray status
+
+Release 0.2.0
+RESTFUL backend for syncing over HTTP
+Simple Angular/React web-client
+System tray status
+
+Release 0.3.0
+Security and login forms
+
+Release 1.0.0
+Android port
+
+Release 2.0.0
+Email remainders and notifications
+Telegram remainders and notifications
+
+Release 3.0.0
+AI generated motivational reminders and pictures
+
+Release 4.0.0
+Enterprise Activity Timers integrated with tast trackers (Jira, etc.)

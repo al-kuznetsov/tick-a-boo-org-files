@@ -1,0 +1,41 @@
+<mxfile host="Electron" modified="2023-09-03T20:44:37.567Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="r1vdDbZ-y3uFmbP9-ILi" version="21.3.7" type="device">
+  <diagram name="Page-1" id="VYh3axB66JbQVHG4CnCf">
+    <mxGraphModel dx="1195" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wfIZgPk70n-r0fU0r7eu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="wfIZgPk70n-r0fU0r7eu-1" target="wfIZgPk70n-r0fU0r7eu-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfIZgPk70n-r0fU0r7eu-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="wfIZgPk70n-r0fU0r7eu-5" target="wfIZgPk70n-r0fU0r7eu-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="360" as="sourcePoint" />
+            <mxPoint x="430" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="165" y="340" />
+              <mxPoint x="165" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfIZgPk70n-r0fU0r7eu-1" value="List of all User Activity Timers, e.g.:&lt;br style=&quot;font-size: 15px;&quot;&gt;- Get cat to the vet&#39;s;&lt;br style=&quot;font-size: 15px;&quot;&gt;- Finish plastering;&lt;br style=&quot;font-size: 15px;&quot;&gt;- Spend time playing;&lt;br&gt;- Practice my English;&lt;br&gt;- Work out;&lt;br&gt;- Study Java;&lt;br&gt;- Work on leetcode problems;&lt;br&gt;- Watch Community Colledge with wife;&lt;br&gt;- Work on Tick-a-Boo application;&lt;br style=&quot;font-size: 15px;&quot;&gt;- *Free Roam;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;fontSize=15;align=left;verticalAlign=top;perimeterSpacing=0;rounded=0;shadow=0;glass=0;spacingTop=0;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wfIZgPk70n-r0fU0r7eu-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="wfIZgPk70n-r0fU0r7eu-2" target="wfIZgPk70n-r0fU0r7eu-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfIZgPk70n-r0fU0r7eu-2" value="List of daily User Activity Timers (Agenda):&lt;br&gt;- Get cat to the vet&#39;s;&lt;br&gt;- Study Java;&lt;br&gt;- Work on leetcode problems;&lt;br&gt;- *Free Roam" style="whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="360" y="150" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wfIZgPk70n-r0fU0r7eu-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Release 0.1.0 flow picture&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wfIZgPk70n-r0fU0r7eu-5" value="Pre-Populated Library of Activity Timers" style="whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=3;fontColor=#333333;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="40" y="390" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wfIZgPk70n-r0fU0r7eu-10" value="User Stats on Activity Timers in day/month/year:&lt;br&gt;- Total time spent;&lt;br&gt;- Average time spent;&lt;br&gt;- Extra time spent;&lt;br&gt;- Average extra time spent;&lt;br&gt;- Time short of the goal;&lt;br&gt;- Average time short of the goal." style="whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=3;fontColor=#333333;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="360" y="320" width="290" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
