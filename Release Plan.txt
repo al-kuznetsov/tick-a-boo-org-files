@@ -29,4 +29,4 @@ Release 3.0.0
 AI generated motivational reminders and pictures
 
 Release 4.0.0
-Enterprise Activity Timers integrated with tast trackers (Jira, etc.)
+Enterprise Activity Timers integrated with task trackers (Jira, etc.)
